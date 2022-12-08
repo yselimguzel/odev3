@@ -1,0 +1,37 @@
+
+Gömülü Sistemler
+
+
+Yavuz Selim Güzel
+Elektrik Elektronik Mühendisliği, Karatay Üniversitesi
+EEE121: Algoritma ve Programlama
+Dr. Öğr. Üyesi BURAK YILMAZ
+08.12.2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gömülü Sistemler Nedir?
+Gömülü sistemler, bağımsız bir sistem olarak ya da büyük bir sistemin parçası olarak belirli bir görevi icra eden ve kendine özel yazılıma sahip mikroişlemci tabanlı bilgisayar donanım sistemleridir. Gömülü sistemleri insan vücudu gibi düşünebiliriz. İnsan beyni vücutta nasıl birtakım işlemleri yerine getiriyorsa gömülü sistemlerde aynı işlemi mikroişlemci/mikrodenetleyici vasıta ile gerçekleştirmektedirler. Gömülü sistemler, mikro denetleyiciler veya dijital sinyal işlemcileri, uygulamaya özel bütünleşmiş devreler, GPU teknolojisi gibi sistemler üzerinde sıklıkla kullanılır. Bu sistemlerde işletim sistemleri, elektriksel ve mekanik arabirimi işlemeye ayrılmış bileşenler de bütünleşmiş edilerek sistem tasarlanmaktadır. Bu bağlamda ele alındığında gömülü bir sistemin temel yapısı birkaç farklı birimden oluşur. İlk olarak sensor siteminden bahsedilebilir. Sensor, fiziksel büyüklüğü ölçerek elektrik sinyaline dönüştürür. Sonrasında ise gömülü sistem mühendisi veya herhangi bir elektronik cihaz tarafından değerlerin okunması sağlanır. İkinci olarak dönüştürücü sistemi devreye girer. Burada genellikle algılayıcı tarafından gönderilen analog sinyali bir dijital sinyale dönüştürür. Sonrasında ise işlemciler devreye girmektedir. İşlemciler, elde edilen çıktı değerini ölçmek ve bellekte saklamak için kullanılır. Sistemin tasarımına göre tekrardan uygulanmak üzere dijital sinyaller analog sinyallere dönüştürülür. Bu şekilde gömülü bir sistemin kabaca donanımsal ara yüzü oluşturulmuş olur.
+
+
+
+
+
+
+Gömülü sistemde kullanılan program dizeleri sistemin yazılım mimarisini oluşturmaktadır. Sıradan bir endüstriyel mikrodenetleyici, dieğr cihazlara oranla sadedir ve bellek kullanımı bir program ortamı ile ilişkilidir. Ayrıca bu sistemler belirli görevleri yerine getirmek üzere tasarlandığı için boyut, güç tüketimi, güvenilirlik ve performansı ayarlamak son derece önemlidir. Bu temel cihazlar CPU’nın makine kodu vasıtasıyla programlanır. Yazılımlar C/C ++ benzeri programlama ortamı ile oluşturulur. Ayrıca, gömülü sistemler çoğu zaman, gerçek zamanlı işletim ortamları ile beraber, gömülü kullanıma uygun ara yüz veya dil platformlarını kullanmaktadır. Örnek olarak Linux, Embedded Java ve Windows IoT gösterilebilir. Yazılım ve donanımın bir araya getirilmesi ile arzu edilen gömülü sistem tasarlanmaktadır
+
+
